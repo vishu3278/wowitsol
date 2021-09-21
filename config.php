@@ -1,0 +1,28 @@
+<?php
+
+	error_reporting(0);
+	date_default_timezone_set("Asia/Kolkata");
+	
+	#################################################
+	# This file is used to configuration of database# 
+	# detail to use connectivity with database      #
+	#################################################
+	session_start();
+	
+	define('DB_DATABASE','wowitsolutions');
+	define('DB_USERNAME','root');
+	define('DB_PASSWORD','');
+
+	/* -------------Server paths---------------------- */
+	define('PROJECT_FOLDER_NAME','/');
+	define('ROOT', $_SERVER['DOCUMENT_ROOT']. PROJECT_FOLDER_NAME) ;  // document path while upload on server
+	define("HOST_NAME","http://" . $_SERVER['HTTP_HOST'].PROJECT_FOLDER_NAME);  // base url for front
+	define('BASE_ADMIN_URL', HOST_NAME.'wowadmin/'); 
+
+	define('WEBSITE', 'WOWITSolutions');
+
+	/* -------------Local paths---------------------- */
+	
+	include_once(ROOT.'db.php');
+
+?>
