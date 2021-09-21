@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Oswald:300,400');
+.open-sans {font-family: 'Open Sans', sans-serif;}
+
+html, body {
+	height: 100%; font-family: 'Open Sans', sans-serif;
+}
+
+.top-header {
+	background-color: #f7f7f7;
+margin-right: 75px;
+}
+
+.top-header li {
+	list-style: none;
+	float: left;
+	padding: 10px;	
+	color: #b6b6b6;
+}
+
+.top-right-content span {
+	float: left;
+	padding: 10px;	
+	color: #666666;	
+}
+
+ .top-right-content i {
+	float: left;
+	color: #666666;
+	padding-top: 14px;
+}
+
+.button-header-wishlist {
+	background-color: #de3532;
+	border:none;
+	}
+
+.button-header-middle {
+	background-color: #000;
+	border:none;
+	}
+.btn-middle-header {margin-top: 20px;}
+
+.middle-header img{float: left;}
+
+.middle-header span {
+	padding-right: 5px;
+}
+.middle-header i {
+	color: #fff;
+}
+
+.user-details i {
+	color:#666!important;
+	padding: 30px 10px 0;
+}
+
+.user-details a {
+	font-weight: 600;
+	color: #666;
+	text-decoration: none;
+}
+input.error,select.error{
+	border-color:#de3532 !important;
+}
+.alert{
+
+padding:10px;
+}
+
+
+.amenities li {
+    display: block;
+    list-style: none;
+    font-size: 12px;
+    padding-bottom: 8px;
+}
+
+.amenities {
+    padding: 10px 0px;
+}
+
+.amenities p {
+    padding-left: 20px;
+}
+
+.amenities li i:before {
+    margin: 0
+}
+
+.amenities li i {
+    padding-right: 10px;
+    padding-top: 3px;
+    color: #777;
+}
+.amen_head li{ display: inline-block; list-style: none; }
