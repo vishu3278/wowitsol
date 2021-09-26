@@ -1,5 +1,4 @@
-<?php  include('include/header.php');  ?>
-  <?php
+<?php  include('include/header.php');  
   if(isset($_GET['page']) && $_GET['page'] > 0 ) {
     $page_no = $_GET['page'];
   }else{

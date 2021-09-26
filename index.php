@@ -165,7 +165,7 @@
 						<ul>
 							<li><a href="https://web.facebook.com/wowitsolutions/" class="linkFacebook" target="_blank"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i></a></li>
 							<li><a href="https://twitter.com/wowitsolutions" class="linkTwitter" target="_blank"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a></li>
-							<li><a href="https://plus.google.com/102662441444395753267" class="linkGooglePlus" target="_blank"><i class="fa fa-google-plus fa-lg" aria-hidden="true"></i></a></li>
+							<!-- <li><a href="https://plus.google.com/102662441444395753267" class="linkGooglePlus" target="_blank"><i class="fa fa-google-plus fa-lg" aria-hidden="true"></i></a></li> -->
 							<li><a href="https://www.linkedin.com/in/wowitsolutions" class="linkLinkedIn" target="_blank"><i class="fa fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
 						</ul>		
 					</div>
@@ -195,114 +195,24 @@
     </h1>
   </div>
   <div id="portfolio" class="portfolio-slider" data-chocolat-title="Case Studies">
-    
     <div class="item">
-      <div class="ui move up reveal">
-        <div class="visible content"><img src="<?php echo HOST_NAME; ?>image/home/thenaturepress.jpg" class="ui fluid image" alt="thenaturepress"></div>
-        <div class="ui hidden center aligned content basic very padded secondary segment">
-          <h4 class="ui header">The Nature Press</h4>
-          <p>Web Design &amp; Development</p>
-          <a class="ui icon circular blue button chocolat-image" href="<?php echo HOST_NAME; ?>image/home/thenaturepress.jpg" rel="portfolio"><i class="icon unhide"></i></a> <a class="ui icon circular red button urlink" href="https://thenaturepress.in/" rel="nofollow" target="_blank"><i class="icon linkify"></i></a> </div>
+      <div class="ui placeholder">
+        <div class="image"></div>
       </div>
     </div>
     <div class="item">
-      <div class="ui move up reveal">
-        <div class="visible content"><img src="<?php echo HOST_NAME; ?>image/home/tangles-home-salon.jpg" class="ui fluid image" alt="allied services tech"></div>
-        <div class="ui hidden center aligned content basic very padded secondary segment">
-          <h4 class="ui header">Tangles Home Salon</h4>
-          <p>Web Design &amp; Development</p>
-          <a class="ui icon circular blue button chocolat-image" href="<?php echo HOST_NAME; ?>image/home/tangles-home-salon.jpg" rel="portfolio"><i class="icon unhide"></i></a> <a class="ui icon circular red button urlink" href="http://www.tangleshomesalon.com/" rel="nofollow" target="_blank"><i class="icon linkify"></i></a> </div>
+      <div class="ui placeholder">
+        <div class="image"></div>
       </div>
     </div>
     <div class="item">
-      <div class="ui move up reveal">
-        <div class="visible content"><img src="<?php echo HOST_NAME; ?>image/home/MiGadgets.jpg" class="ui fluid image" alt="MiGadgets"></div>
-        <div class="ui hidden center aligned content basic very padded secondary segment">
-          <h4 class="ui header">MiGadgets</h4>
-          <p>Web Development</p>
-          <a class="ui icon circular blue button chocolat-image" href="<?php echo HOST_NAME; ?>image/home/MiGadgets.jpg"  rel="portfolio"><i class="icon unhide"></i></a> <a class="ui icon circular red button urlink" href="http://migadgets.biz/" rel="nofollow" target="_blank"><i class="icon linkify"></i></a> </div>
+      <div class="ui placeholder">
+        <div class="image"></div>
       </div>
     </div>
     <div class="item">
-      <div class="ui move up reveal">
-        <div class="visible content"><img src="<?php echo HOST_NAME; ?>image/home/vibgyorenergy.jpg" class="ui fluid image" alt="vibgyor energy"></div>
-        <div class="ui hidden center aligned content basic very padded secondary segment">
-          <h4 class="ui header">Vibgyor Energy</h4>
-          <p>Web Design &amp; Development</p>
-          <a class="ui icon circular blue button chocolat-image" href="<?php echo HOST_NAME; ?>image/home/vibgyorenergy.jpg"  rel="portfolio"><i class="icon unhide"></i></a> <a class="ui icon circular red button urlink" href="http://vibgyorenergy.com/" rel="nofollow" target="_blank"><i class="icon linkify"></i></a> </div>
-      </div>
-    </div>
-
-    <div class="item">
-      <div class="ui move up reveal">
-        <div class="visible content"><img src="<?php echo HOST_NAME; ?>image/home/IMMEDIA-mobile-app.jpg" class="ui fluid image" alt="allied services tech"></div>
-        <div class="ui hidden center aligned content basic very padded secondary segment">
-          <h4 class="ui header">IMMEDIA</h4>
-          <p>Mobile App Design &amp; Development</p>
-          <a class="ui icon circular blue button chocolat-image" href="<?php echo HOST_NAME; ?>image/home/IMMEDIA-mobile-app.jpg" rel="portfolio"><i class="icon unhide"></i></a> <a class="ui icon circular red button urlink" href="https://www.immidia.com/" rel="nofollow" target="_blank"><i class="icon linkify"></i></a> </div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="ui move up reveal">
-        <div class="visible content"><img src="<?php echo HOST_NAME; ?>image/home/GiveClass-Online-Tutors.jpg" class="ui fluid image" alt="GiveClass"></div>
-        <div class="ui hidden center aligned content basic very padded secondary segment">
-          <h4 class="ui header">GiveClass</h4>
-          <p>Design &amp; Development, PHP, MySQL</p>
-          <a class="ui icon circular blue button " href="<?php echo HOST_NAME; ?>giveclass.php"><i class="icon unhide"></i></a> <a class="ui icon circular red button urlink" rel="nofollow" href="http://www.giveclass.com" target="_blank"><i class="icon linkify"></i></a> </div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="ui move up reveal">
-        <div class="visible content"><img src="<?php echo HOST_NAME; ?>image/home/mmsmobile-app.jpg" class="ui fluid image" alt="MMS Mobile"></div>
-        <div class="ui hidden center aligned content basic very padded secondary segment">
-          <h4 class="ui header">MMS Mobile</h4>
-          <p>Mobile App Design &amp; Development</p>
-          <a class="ui icon circular blue button chocolat-image" href="<?php echo HOST_NAME; ?>image/home/mmsmobile-app.jpg" rel="portfolio"><i class="icon unhide"></i></a> <a class="ui icon circular red button urlink" href="#" target="_blank"><i class="icon linkify"></i></a> </div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="ui move up reveal">
-        <div class="visible content"><img src="<?php echo HOST_NAME; ?>image/home/GoTea-Tutor-Rental-site.jpg" class="ui fluid image" alt="GoTea Tutor Rental Website"></div>
-        <div class="ui hidden center aligned content basic very padded secondary segment">
-          <h4 class="ui header">GoTea</h4>
-          <p>Web Design &amp; Development</p>
-          <a class="ui icon circular blue button " href="<?php echo HOST_NAME; ?>go-tea.php"><i class="icon unhide"></i></a> <a class="ui icon circular red button urlink" rel="nofollow" href="https://gotea.co.in/" target="_blank"><i class="icon linkify"></i></a> </div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="ui move up reveal">
-        <div class="visible content"><img src="<?php echo HOST_NAME; ?>image/home/Sidsessentials-pets.jpg" class="ui fluid image" alt="Sidsessentials"></div>
-        <div class="ui hidden center aligned content basic very padded secondary segment">
-          <h4 class="ui header">SidsEssentials</h4>
-          <p>e-Commerce, Magento</p>
-          <a class="ui icon circular blue button chocolat-image" href="<?php echo HOST_NAME; ?>image/home/Sidsessentials-pets.jpg" rel="portfolio"><i class="icon unhide"></i></a> <a class="ui icon circular red button urlink" href="http://sidsessentials.com" rel="nofollow" target="_blank"><i class="icon linkify"></i></a></div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="ui move up reveal">
-        <div class="visible content"><img src="<?php echo HOST_NAME; ?>image/home/mindpriest-home.jpg" class="ui fluid image" alt="Mind Priests"></div>
-        <div class="ui hidden center aligned content basic very padded secondary segment">
-          <h4 class="ui header">Mind Priests</h4>
-          <p>Web Design &amp; Development, Wordpress</p>
-          <a class="ui icon circular blue button chocolat-image" href="<?php echo HOST_NAME; ?>image/home/mindpriest-home.jpg" rel="portfolio"><i class="icon unhide"></i></a> <a class="ui icon circular red button urlink" href="http://mindpriests.com" rel="nofollow" target="_blank"><i class="icon linkify"></i></a> </div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="ui move up reveal">
-        <div class="visible content"><img src="<?php echo HOST_NAME; ?>image/home/ArmsUnify.jpg" class="ui fluid image" alt="ArmsUnify"></div>
-        <div class="ui hidden center aligned content basic very padded secondary segment">
-          <h4 class="ui header">ArmsUnify</h4>
-          <p>Tour & Travel e-Commerce, PHP</p>
-          <a class="ui icon circular blue button chocolat-image" href="<?php echo HOST_NAME; ?>image/home/ArmsUnify.jpg" rel="portfolio"><i class="icon unhide"></i></a> <a class="ui icon circular red button urlink" href="http://www.armsunify.com/" rel="nofollow" target="_blank"><i class="icon linkify"></i></a> </div>
-      </div>
-    </div>
-    <div class="item">
-      <div class="ui move up reveal">
-        <div class="visible content"><img src="<?php echo HOST_NAME; ?>image/home/RoomSoom-rental-site.jpg" class="ui fluid image" alt="RoomSoom Rental Website"></div>
-        <div class="ui hidden center aligned content basic very padded secondary segment">
-          <h4 class="ui header">RoomSoom</h4>
-          <p>Web Design &amp; Development</p>
-          <a class="ui icon circular blue button chocolat-image" href="<?php echo HOST_NAME; ?>image/home/RoomSoom-rental-site.jpg" rel="portfolio"><i class="icon unhide"></i></a> <a class="ui icon circular red button urlink" href="https://www.roomsoom.com/" rel="nofollow" target="_blank"><i class="icon linkify"></i></a> </div>
+      <div class="ui placeholder">
+        <div class="image"></div>
       </div>
     </div>
   </div>
@@ -341,23 +251,47 @@
 </section>
 <script type="text/javascript" src="<?php echo HOST_NAME; ?>plugin/slick/slick.min.js"></script> 
 <script src="<?php echo HOST_NAME; ?>plugin/popup/jquery.chocolat.min.js"></script> 
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 <script type="text/javascript">
   $(document).ready(function(){
+    axios.get('<?php echo HOST_NAME; ?>alpha/projects_api.php')
+    .then(res => {
+      if (res.status == 200) {
+        let template = '';
+        res.data.forEach((v, i)=>{
+          template += `<div class="item"><a href="<?php echo HOST_NAME; ?>image/clients/${v.image}" class="ui fluid image chocolat-image"><img src="<?php echo HOST_NAME; ?>image/clients/${v.image}" alt="${v.project}"></a></div>`;
+        })
+        $("#portfolio").html(template);
+        initPortfolio();
+      } else {
+        alert(res.statusText + " Some error occurred!")
+      }
+    })
+    .catch(err => alert(err));
+
+    function initPortfolio() {
       $("#portfolio").slick({
         'autoplay':true,
         arrows: true,
-        'slidesToShow':4,
+        'slidesToShow':3,
         'mobileFirst':false,
-        'adaptiveHeight':true,
+        // 'adaptiveHeight':true,
+        'dots': true,
+        centerMode: true,
         'responsive':[
           {breakpoint: 1020,settings: {
             'slidesToShow': 3}},
           {breakpoint: 801,settings: {
-            'slidesToShow': 2}}, 
+            arrows: false,
+            slidesToShow: 2,
+          }}, 
           {breakpoint: 561,settings: {
-            'slidesToShow':1}}
+            arrows: false,
+            slidesToShow:1
+          }}
           ]
       });
+    }
 
       $(".cliets-slide").slick({
         'autoplay':true,

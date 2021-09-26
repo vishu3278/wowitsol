@@ -208,7 +208,7 @@
  
       <h2 class="ui header">WOW IT Solutions Footprint</h2>
 
-      <img src="image/footprint.jpg">
+      <img src="image/footprint.jpg" class="ui fluid image">
 
 </div>
 </section>

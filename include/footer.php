@@ -19,7 +19,7 @@
         <div class="ui relaxed inverted list ">
           <a class="item" href="https://web.facebook.com/wowitsolutions/" target="_blank"><span class="item"><i class="icon facebook circular"></i> <span class="content">Facebook</span></span></a>
           <a class="item" href="https://twitter.com/wowitsolutions" target="_blank"><span class="item"><i class="icon twitter circular"></i> <span class="content">Twitter</span></span></a>
-          <a class="item" href="https://plus.google.com/102662441444395753267" target="_blank"><span class="item"><i class="icon google plus circular"></i><span class="content">Google+</span></span> </a>
+          <!-- <a class="item" href="https://plus.google.com/102662441444395753267" target="_blank"><span class="item"><i class="icon google plus circular"></i><span class="content">Google+</span></span> </a> -->
           <a class="item" href="https://www.linkedin.com/in/wowitsolutions" target="_blank"><span class="item"><i class="icon linkedin circular"></i><span class="content">Linkedin</span></span> </a>
         </div>
         <!-- <form action="" class="ui small form">

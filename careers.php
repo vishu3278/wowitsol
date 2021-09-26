@@ -1,10 +1,9 @@
-<?php include('config.php');
+<?php 
+
 include('include/header.php');
 
 $s= "SELECT * FROM careers ORDER BY interveiw_date desc";
 $ss = mysqli_query($conn, $s);
-
-
 
   ?>
 <div class="page-title">
@@ -38,9 +37,7 @@ $ss = mysqli_query($conn, $s);
   
       <div class="twelve wide column">
         <div class="ui divided items">
-        <?php while ($row = mysqli_fetch_array($ss)) {
-            
-         ?>
+        <?php while ($row = mysqli_fetch_array($ss)) { ?>
            
             <div class="item">
               <div class="content">
@@ -130,7 +127,6 @@ $.ajax({
          url   : '<?php echo BASE_ADMIN_URL; ?>include/career_api.php',
 
          success  : function (result) {
-
                     var s = JSON.parse(result);
 
                     console.log(s);

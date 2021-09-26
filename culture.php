@@ -1,5 +1,5 @@
 <?php
-include('config.php');
+
  include('include/header.php');
 
  $s = "SELECT * FROM cultures order by id desc";

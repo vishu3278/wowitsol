@@ -286,7 +286,7 @@ jQuery(function ($) {
         </div>
 
         <a href="<?php echo HOST_NAME; ?>portfolio.php" class="item <?php active('portfolio.php');?>">Portfolio</a>
-        <a href="<?php echo HOST_NAME; ?>news.html" class="item <?php active('news.html');?>">News</a>
+        <a href="<?php echo HOST_NAME; ?>news.php" class="item <?php active('news.php');?>">News</a>
         <a href="<?php echo HOST_NAME; ?>careers.php" class="item <?php active('careers.php');?>">Careers</a> 
         <a href="<?php echo HOST_NAME; ?>contact.php" class="item <?php active('contact.php');?>">Contact Us</a>
         <!-- <a href="soon.php" class="item <?php active('soon.php');?>">Blog</a> -->
